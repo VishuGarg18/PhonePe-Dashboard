@@ -188,6 +188,52 @@ Peak in October (₹2.12M) – Year-end insurance renewals
 Drop in December (₹1.78M)
 
 
+DASHBOARD PREVIEW 
+
+Home Page
+<img width="1322" height="722" alt="Homepage" src="https://github.com/user-attachments/assets/ff061500-7993-4bf3-ade1-ba67a38a3236" />
+
+Insurance Analytics
+<img width="970" height="542" alt="insurance " src="https://github.com/user-attachments/assets/fa20a9a5-c53c-4eb4-826d-c16b0d97c23b" />
+
+Loans Performance
+<img width="971" height="547" alt="Loan" src="https://github.com/user-attachments/assets/9a163039-316e-4a27-8ad2-286d75970f78" />
+
+Money Transfer Insights
+<img width="968" height="546" alt="MT" src="https://github.com/user-attachments/assets/5d83dcb1-82bd-4370-b8e7-61ecbd9c3868" />
+
+Recharge & Bills Analysis
+<img width="1312" height="783" alt="Recharge and Bills" src="https://github.com/user-attachments/assets/6d8fe87e-63ac-48fc-b9b9-659a07d68ccf" />
+
+
+
+ 🚀 How to Use This Dashboard
+Prerequisites
+
+Microsoft Power BI Desktop (Download: powerbi.microsoft.com)
+Windows 10/11 or macOS
+
+Installation Steps🚀
+
+Clone Repository
+git clone https://github.com/vishugarg/phonepe-data-analysis.git
+   cd phonepe-data-analysis
+
+Open Dashboard🚀
+
+Launch Power BI Desktop
+File → Open → Select Dashboard/PhonePe_Dashboard.pbix
+Dashboard loads with embedded dataset
+
+
+Interactive Exploration 🚀
+
+Filter by Date: Use Date Range Slicer at the top
+Navigate Pages: Click service icons in left sidebar or bottom tabs
+Cross-Filter: Click any chart segment to filter other visuals
+Drill-Through: Right-click charts for detailed breakdowns
+Reset Filters: Click "Clear Filters" or Ctrl+Click on slicers
+
 
 
 
